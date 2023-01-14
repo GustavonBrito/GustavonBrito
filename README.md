@@ -1,5 +1,5 @@
 # 💫 About Me:
-👓 Front End Developer.<br>🔎 Buscando novas oportunidades.<br>🛠  Gosto de construir coisas que agregam na vida das pessoas.   
+🥇Tenho objetivo de me tornar Fullstack.<br>👓 Front End Developer.<br>🔎 Buscando novas oportunidades.<br>🛠  Gosto de construir coisas que agregam na vida das pessoas.   
 
 
 ## 🌐 Socials:
